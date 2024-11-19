@@ -11,6 +11,8 @@ I’m a passionate Cybersecurity Enthusiast, Bug Bounty Hunter, and aspiring Dig
 
 🧑‍💻 Digital Forensics Enthusiast | Investigating digital evidence and solving cybercrime cases
 
+🔧 uBreakiFix | Tech repair and troubleshooting, with a focus on hardware diagnostics
+
 I enjoy exploring both offensive and defensive aspects of cybersecurity. On platforms like Hack The Box, TryHackMe, and CyberDefender, I sharpen my skills in penetration testing, vulnerability research, and defensive security practices. Digital forensics is another area I’m passionate about—analyzing cyber incidents and piecing together the digital evidence.
 
 Let’s connect! I’m always looking to learn, collaborate on new projects, and push the boundaries of cybersecurity.
