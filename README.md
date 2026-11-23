@@ -31,11 +31,12 @@ Software and Tool Development
 
 <p align="center"> <a href="https://www.hackthebox.com/"> <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" /> </a> <a href="https://tryhackme.com/"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /> </a> <a href="https://cyberdefenders.org/"> <img src="https://img.shields.io/badge/CyberDefenders-172554?style=for-the-badge&logo=target&logoColor=white" /> </a> </p>
 
-📊 GitHub Statistics
+📈 My Contribution Journey
 
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=M4hm0udX&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4hm0udX&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M4hm0udX&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=M4hm0udX&theme=tokyonight&hide_border=true" /> </p>
 
 🤝 Connect With Me
 
